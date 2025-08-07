@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Ergonomic Office Chair",
+      "price": 150,
+      "category": "Furniture",
+      "imageUrl": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Modern Coffee Table",
+      "price": 250,
+      "category": "Furniture",
+      "imageUrl": "https://www.ikea.com/eg/en/images/products/sandsberg-table-black__1074348_pe856162_s5.jpg?f=s",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Desk Lamp",
+      "price": 60,
+      "category": "Furniture",
+      "imageUrl": "https://i5.walmartimages.com/seo/Home-Decorative-Mainstays-LED-Architect-Desk-Lamp-Black-Metal-Powder-Coating-Finish-for-All-Ages_2416f3cf-e5d2-4e9d-9612-d2ad61a014e0.ce7d149337e1d115ba4a61a2c3a11904.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "iPhone 15 Pro",
+      "price": 999,
+      "category": "Electronics",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693009279096"
+    },
+    {
+      "id": "5",
+      "name": "MacBook Air M2",
+      "price": 1199,
+      "category": "Electronics",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653084303665"
+    },
+    {
+      "name": "Wireless Headphones",
+      "price": 299,
+      "category": "Electronics",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "id": "6"
+    },
+    {
+      "name": "The Great Gatsby",
+      "price": 20,
+      "category": "Books",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "React Programming Guide",
+      "price": 29.99,
+      "category": "Books",
+      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=500&h=500&fit=crop"
+    },
+    {
+      "id": "9",
+      "name": "Cotton T-Shirt",
+      "price": 24.99,
+      "category": "Clothing",
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop"
+    },
+    {
+      "id": "10",
+      "name": "Denim Jeans",
+      "price": 79.99,
+      "category": "Clothing",
+      "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500&h=500&fit=crop"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "ahmed alaa",
+    "email": "ahmed@gmail.com",
+    "phone": "+20 1113158812",
+    "address": "123 Main Street, City, Country",
+    "birthday": "January 7, 2004"
+  },
+  "users": [
+    {
+      "id": "1",
+      "email": "ahmed@gmail.com",
+      "password": "ahmed123",
+      "name": "Ahmed Alaa"
+    }
+  ]
+}
